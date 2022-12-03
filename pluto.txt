@@ -1,1 +1,5 @@
 It is so a planet!
+<<<<<<< HEAD
+=======
+
+>>>>>>> ed5d8a2b711b9746db1f8875eac20362f3ae9e04
